@@ -1,0 +1,38 @@
+body {
+    font-size: 30px;
+    font-family: 'Kalam', cursive;
+    background-image: url(beautiful.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table, tr, td {
+    text-align: center;
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+}
+tr, td {
+    padding: 20px;
+    color: rgb(58, 109, 133);
+}
+.top{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(160, 153, 23);
+}
+.paper {
+    border-radius: 2%;
+    box-shadow: 0px 0px 12px black;
+    background-color: cornsilk;
+    opacity: 0.85;
+    width: 700px;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-top: 50px;
+    margin-left: -300px;
+}
+.head {
+    font-weight: 800;
+}
